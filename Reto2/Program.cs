@@ -1,7 +1,3 @@
-// Reto 2. Condición de carrera
-// Uso:  dotnet run                -> 100.000 vueltas por hilo
-//       dotnet run -- 1000000     -> 1.000.000 vueltas por hilo
-
 using System.Threading;
 
 class Program
@@ -61,3 +57,6 @@ class Program
         Probar("Con Interlocked.Increment:", SumarConInterlocked);
     }
 }
+// Este ejercicio es del reto 2 el cual el praxctico consiste en tener la Condición de carrera de este ejercicio
+// Al usar:  dotnet run                -> 100.000 vueltas por hilo
+//       dotnet run -- 1000000     -> 1.000.000 vueltas por hilo
