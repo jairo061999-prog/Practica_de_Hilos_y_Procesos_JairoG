@@ -1,7 +1,3 @@
-// Reto 1. Mi primer hilo
-// Uso:  dotnet run                -> Join al final del programa
-//       dotnet run -- join-ya     -> Join justo después de arrancar el hilo
-
 using System.Threading;
 
 class Program
@@ -34,3 +30,6 @@ class Program
         Console.WriteLine("Main: fin");
     }
 }
+// Este practico es del Reto 1 el cual consiste en hacer un primer hilo
+//Al usar:  dotnet run                -> Join al final del programa
+//       dotnet run -- join-ya     -> Join justo después de arrancar el hilo
