@@ -1,5 +1,3 @@
-// Reto 3. Tareas y tiempo
-
 using System.Diagnostics;
 using System.Threading;
 using System.Threading.Tasks;
@@ -52,3 +50,4 @@ class Program
         Console.WriteLine($"Tiempo total: {reloj.Elapsed.TotalSeconds:F1} s");
     }
 }
+// Este practico es el reto 3 el cual es para hacer tareas y tiempo
