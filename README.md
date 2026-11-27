@@ -1,4 +1,4 @@
-# T01 - Introducción al desarrollo con hilos y procesos
+Introducción al desarrollo con hilos y procesos
 
 Programas de consola en C# (.NET) de la actividad T01.
 
